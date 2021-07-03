@@ -119,4 +119,4 @@ toplam ücreti hesaplanacaktır. Ayrıca arac.txt dosyasında o araca ait müsai
 
 # İçerik PDF Dosyası
 
-[Ödev 2.pdf](https://github.com/bhrcfth42/Arac-Kiralama-Otomasyonu/files/6759077/Odev.2.pdf)
+[Arac-Kiralama-Otomasyonu.pdf](https://github.com/bhrcfth42/Arac-Kiralama-Otomasyonu/files/6759077/Odev.2.pdf)
