@@ -1,0 +1,6 @@
+
+1	onder	buhurcu	konya
+2	a	a	a
+3	b	b	b
+4	c	c	c
+5	d	d	d
