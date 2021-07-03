@@ -116,3 +116,7 @@ sonra hesaplanan gün sayısı ile o araca ait günlük kiralama ücreti çarpı
 toplam ücreti hesaplanacaktır. Ayrıca arac.txt dosyasında o araca ait müsaitlik durumu
 1 yapılacaktır.
 ```
+
+# İçerik PDF Dosyası
+
+[Ödev 2.pdf](https://github.com/bhrcfth42/Arac-Kiralama-Otomasyonu/files/6759077/Odev.2.pdf)
